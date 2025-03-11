@@ -1,6 +1,6 @@
 {
   "name": "@tan_hung_2312/common-ui",
-  "version": "0.1.2",
+  "version": "0.1.13",
   "private": false,
   "description": "Reusable UI components for Next.js",
   "main": "dist/index.js",
@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@swc/core": "^1.11.8",
+    "flowbite-react": "^0.10.2",
     "next": "15.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -30,7 +31,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.2.1",
-    "tailwindcss": "^4",
+    "tailwindcss": "^3.3.5",
     "typescript": "^5"
   }
 }
